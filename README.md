@@ -1,1 +1,1 @@
-# Super-Store-Sales-Dashboard-2019-2021-
+This Power BI dashboard analyzes Super Store sales data from 2019 to 2021, providing clear insights into sales trends, profit margins, shipping methods, regional performance, and customer behavior. Key highlights include top-performing product categories (Office Supplies, Technology), dominant customer segments (Consumer: 48%), and payment method breakdowns (COD: 43%). With a total of $1.57M in sales, $175K profit, and 22K units sold, the dashboard enables data-driven decisions through interactive visualizations and KPIs.
